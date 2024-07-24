@@ -1,0 +1,26 @@
+body{
+  background-color:black;
+  display:flex;
+  justify-content:center;
+}
+.page{
+  height:200px;
+  width:650px;
+  background-color:#3a3030;
+  margin-top:47px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  border-radius:25px;
+  color:#ee2a00;
+  font-size:30px;
+}
+.result{
+  height:90px;
+  width:490px;
+  background-color:white;
+  border-radius:30px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
